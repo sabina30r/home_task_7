@@ -24,11 +24,11 @@
     <dependencies>
         <dependency>
             <groupId>nix.edu</groupId>
-            <artifactId>planets-util</artifactId>
+            <artifactId>planets-logic</artifactId>
         </dependency>
         <dependency>
             <groupId>nix.edu</groupId>
-            <artifactId>planets-util</artifactId>
+            <artifactId>planets-logic</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>planets-util</module>
+        <module>planets-logic</module>
         <module>planets-view</module>
     </modules>
 
